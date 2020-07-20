@@ -19,3 +19,4 @@ Clock:"Internal 8 MHz"
 
 编程器:"Arduino as ISP"
 ```
+##### 6. 工具 - > 烧录引导程序
