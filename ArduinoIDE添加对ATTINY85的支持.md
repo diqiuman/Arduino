@@ -42,4 +42,10 @@ http://drazzy.com/package_drazzy.com_index.json
 ```
 ##### 6. 工具 - > 烧录引导程序
 
-## 方案三:手动安装
+## 方案三:git 安装
+#### https://github.com/stm32duino/wiki/wiki/Using-git-repository
+```
+cd Arduino/hardware
+mkdir STM32 && cd STM32
+git clone --depth 1 https://github.com/stm32duino/Arduino_Core_STM32.git stm32
+```
